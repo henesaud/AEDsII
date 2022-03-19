@@ -1,0 +1,17 @@
+date,home_team,away_team,home_score,away_score,tournament,city,country,neutral
+19580624,Brazil,France,5,2,FIFA World Cup,Solna,Sweden,TRUE
+19580624,Sweden,Germany,3,1,FIFA World Cup,Gothenburg,Sweden,FALSE
+19580628,France,Germany,6,3,FIFA World Cup,Gothenburg,Sweden,TRUE
+19580628,German DR,Poland,1,1,Friendly,Rostock,German DR,FALSE
+19580629,Denmark,Norway,1,2,Nordic Championship,Copenhagen,Denmark,FALSE
+19580629,Sweden,Brazil,2,5,FIFA World Cup,Solna,Sweden,FALSE
+19580702,Singapore,Indonesia,0,5,Friendly,Kallang,Singapore,FALSE
+19580703,Malaysia,Indonesia,2,4,Friendly,Kallang,Singapore,TRUE
+19580816,New Zealand,Australia,2,3,Friendly,Wellington,New Zealand,FALSE
+19650630,Sweden,Brazil,1,2,Friendly,Solna,Sweden,FALSE
+19780603,Brazil,Sweden,1,1,FIFA World Cup,Mar del Plata,Argentina,TRUE
+19820015,Norway,Denmark,2,1,Nordic Championship,Oslo,Norway,FALSE
+
+
+
+
